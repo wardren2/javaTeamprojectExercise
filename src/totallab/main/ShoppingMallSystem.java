@@ -91,6 +91,7 @@ public class ShoppingMallSystem {
 			System.out.println("0. 메인 메뉴로 돌아가기");
 			System.out.print("선택하세요: ");	
 			System.out.println();
+			System.out.println();
 			
 			int choice = Integer.parseInt(scanner.nextLine());
 			
