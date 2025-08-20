@@ -89,7 +89,8 @@ public class ShoppingMallSystem {
 			System.out.println("1. 주문하기");
 			System.out.println("2. 고객 주문 내역 보기");
 			System.out.println("0. 메인 메뉴로 돌아가기");
-			System.out.print("선택하세요: ");		
+			System.out.print("선택하세요: ");	
+			System.out.println();
 			
 			int choice = Integer.parseInt(scanner.nextLine());
 			
